@@ -1,0 +1,7 @@
+{
+    "DATABASE_HOST": "10.167.10.12",
+    "DATABASE_PORT": 5432,
+    "DATABASE_NAME": "RecipeApp",
+    "DATABASE_USERNAME": "admin",
+    "DATABASE_PASSWORD": "admin"
+}
